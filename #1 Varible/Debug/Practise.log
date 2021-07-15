@@ -1,4 +1,0 @@
-﻿  Practise.cpp
-F:\Codes\Cpp\Practise\#1 Varible\Practise.cpp(26,28): warning C4305: “初始化”: 从“double”到“float”截断
-F:\Codes\Cpp\Practise\#1 Varible\Practise.cpp(46,9): warning C4101: “Test_int_local_main”: 未引用的局部变量
-  Practise.vcxproj -> F:\Codes\Cpp\Practise\#1 Varible\Debug\Practise.exe
